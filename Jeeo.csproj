@@ -2,6 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>Jeeo</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>psyap5</Authors>
+    <Company>psyap5</Company>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
 </Project>

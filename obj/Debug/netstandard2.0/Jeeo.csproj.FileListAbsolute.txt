@@ -1,0 +1,9 @@
+/Users/alexpenfold/Jeeo/bin/Debug/netstandard2.0/Jeeo.deps.json
+/Users/alexpenfold/Jeeo/bin/Debug/netstandard2.0/Jeeo.dll
+/Users/alexpenfold/Jeeo/bin/Debug/netstandard2.0/Jeeo.pdb
+/Users/alexpenfold/Jeeo/obj/Debug/netstandard2.0/Jeeo.csprojAssemblyReference.cache
+/Users/alexpenfold/Jeeo/obj/Debug/netstandard2.0/Jeeo.csproj.CoreCompileInputs.cache
+/Users/alexpenfold/Jeeo/obj/Debug/netstandard2.0/Jeeo.AssemblyInfoInputs.cache
+/Users/alexpenfold/Jeeo/obj/Debug/netstandard2.0/Jeeo.AssemblyInfo.cs
+/Users/alexpenfold/Jeeo/obj/Debug/netstandard2.0/Jeeo.dll
+/Users/alexpenfold/Jeeo/obj/Debug/netstandard2.0/Jeeo.pdb
